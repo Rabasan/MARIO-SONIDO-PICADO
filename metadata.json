@@ -1,0 +1,5 @@
+{
+  "name": "Mario Sound Jump",
+  "description": "Un juego musical donde saltas obstáculos detectando el sonido de tu instrumento de viento.",
+  "requestFramePermissions": ["microphone"]
+}
